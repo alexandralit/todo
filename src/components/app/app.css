@@ -1,0 +1,14 @@
+.todo-app {
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  margin: 30px auto;
+}
+
+.top-panel {
+  margin-bottom: 10px;
+}
+
+.btn {
+  width: 80px;
+}
